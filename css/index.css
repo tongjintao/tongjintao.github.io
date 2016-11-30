@@ -9,3 +9,8 @@ h1 {
 #info_container {
     font-size: 22px;
 }
+
+#button_container{
+	margin: 50px auto;
+	text-align: center;
+}
